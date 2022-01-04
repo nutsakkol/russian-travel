@@ -1,0 +1,10 @@
+.place {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  grid-template-rows: repeat(3, auto);
+  grid-auto-flow: column;
+  grid-template-areas:
+  "title website"
+  "image text"
+  "image text";
+}
