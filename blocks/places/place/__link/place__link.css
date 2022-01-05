@@ -1,9 +1,8 @@
-.intro__list-item {
-  font-size: 12px;
+.place__link {
+  font-size: 18px;
   font-style: normal;
   font-weight: 400;
-  line-height: 18px;
+  line-height: 22px;
   letter-spacing: 0em;
-  text-align: left;
   color: #FFFFFF;
 }
