@@ -23,7 +23,6 @@
   opacity: 0.3;
   z-index: 0;
   background: #2A2C2F;
-  ;
 }
 
 .cover__overlay:hover::before {
