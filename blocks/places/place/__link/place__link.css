@@ -6,3 +6,8 @@
   letter-spacing: 0em;
   color: #FFFFFF;
 }
+
+.place__link:hover {
+  opacity: 0.8;
+  transition: opacity linear 0.2s;
+}
