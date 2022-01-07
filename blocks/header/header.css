@@ -2,6 +2,23 @@
   display: flex;
   justify-content: space-between;
   max-width: 1184px;
-  min-height: 52px;
   margin: 28px auto 0;
+}
+
+@media screen and (max-width: 1279px) {
+  .header {
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .header {
+    max-width: 720px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .header {
+    max-width: 288px;
+  }
 }
