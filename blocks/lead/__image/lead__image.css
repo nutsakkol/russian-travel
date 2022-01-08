@@ -15,10 +15,3 @@
     width: 100vw;
   }
 }
-
-@media screen and (max-width: 767px) {
-  .lead__image {
-    width: 100vw;
-    margin: 40px auto 0;
-  }
-}

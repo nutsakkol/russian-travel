@@ -4,3 +4,9 @@
   justify-content: end;
   grid-area: website;
 }
+
+@media screen and (max-width: 767px) {
+  .place__website {
+    margin: 0 16px 0;
+  }
+}
